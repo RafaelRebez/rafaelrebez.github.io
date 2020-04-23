@@ -42,14 +42,8 @@ hr {
     height: 600px;
   } */
 
-footer {
-	padding: 3% 3%;
-	margin-top: 3%;
-	text-align: center;
-}
 footer p {
-	margin-left: 40%;
-	text-align: center;
+	width: 100%;
 }
 
 .social {
