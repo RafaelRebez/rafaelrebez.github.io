@@ -1,0 +1,42 @@
+body {
+  background-color: #333;
+}
+
+#about-section,
+#skills-section {
+  background: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.main-footer {
+  position: absolute;
+}
+
+hr {
+  border: 1px dotted;
+  border-style: none none dotted;
+  color: #fff;
+  background-color: #fff;
+  width: 30%;
+  /* background-color: #fff;
+  border-top: dotted 2px;
+  width: 30%; */
+}
+
+#projects-section p {
+  font-size: 16px;
+}
+
+/* #projects-section img {
+  width: 800px;
+  height: 600px;
+} */
+
+/* footer {
+  position: relative;
+  bottom: 0px;
+  height: 20px;
+  width: 100%;
+} */
